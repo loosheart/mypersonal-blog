@@ -1,0 +1,99 @@
+/* STYLE SECTIONING TAGS */
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+ background-color: #ffebeb; 
+}
+
+header {
+  background-color: #af4646;
+  text-align: center;
+  font-size: 190%;
+
+  }
+
+
+main {
+  font-size: 150%;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+}
+
+nav {
+  text-align: center;
+}
+/* STYLE TEXT */
+h1 {
+  color: #ffffff;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+h2 {
+  font-size: 130%;
+  padding-bottom: 1em;
+  padding-top: 1em;
+}
+
+h3 {
+  font-size: 130%;
+  padding-bottom: 1em;
+  padding-top: 1em;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+p {
+  color: #000000;
+  margin-bottom: 10%;
+}
+/* STYLE IMAGES */
+
+img{
+  max-width: 30%; 
+  margin-bottom: 2em;
+}
+
+#girl {
+  border-radius: 50%;
+  border: 3px solid white;
+}
+
+#nav {
+  list-style-type: none;
+  background-color: #3faba9;
+  overflow:hidden;
+  padding: 1em;
+}
+
+#home {
+  display: inline;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+  font-size: 150%;
+  padding: 1em
+}
+
+li a:hover {
+  background-color: #fed7de;
+}
+
+
+.coding {
+  color: #000000;
+  margin-bottom: 10%;
+  font-size: 72%;
+}
+
+#courses {
+  font-size: 140%
+}
